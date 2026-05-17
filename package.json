@@ -1,6 +1,6 @@
 {
   "name": "prototype-prd-vite-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Local-first PRD workbench overlay for Vite prototype projects.",
   "type": "module",
   "main": "./index.js",
