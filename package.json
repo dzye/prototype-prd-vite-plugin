@@ -4,6 +4,14 @@
   "description": "Local-first PRD workbench overlay for Vite prototype projects.",
   "type": "module",
   "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzye/prototype-prd-vite-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dzye/prototype-prd-vite-plugin/issues"
+  },
+  "homepage": "https://github.com/dzye/prototype-prd-vite-plugin#readme",
   "exports": {
     ".": "./index.js"
   },
