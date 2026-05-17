@@ -11,7 +11,11 @@
     "index.js",
     "src",
     "client",
-    "examples",
+    "examples/basic/index.html",
+    "examples/basic/package.json",
+    "examples/basic/package-lock.json",
+    "examples/basic/src",
+    "examples/basic/vite.config.js",
     "README.md",
     "LICENSE"
   ],
