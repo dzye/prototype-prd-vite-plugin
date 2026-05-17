@@ -1,0 +1,12 @@
+{
+  "name": "prototype-prd-vite-plugin-basic-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "prototype-prd-vite-plugin": "file:../..",
+    "vite": ">=5.0.0"
+  }
+}

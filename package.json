@@ -1,0 +1,38 @@
+{
+  "name": "prototype-prd-vite-plugin",
+  "version": "0.1.0",
+  "description": "Local-first PRD workbench overlay for Vite prototype projects.",
+  "type": "module",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "src",
+    "client",
+    "examples",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "pack:dry": "npm pack --dry-run"
+  },
+  "keywords": [
+    "vite",
+    "plugin",
+    "prd",
+    "prototype",
+    "markdown",
+    "openai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "vite": ">=5.0.0"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  }
+}
